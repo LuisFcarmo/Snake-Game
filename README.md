@@ -22,3 +22,8 @@ Este projeto final foi desenvolvido para a disciplina de Introdução à Program
 ## Para executar:
 ```bash
 
+## 💻 Autores
+
+- [@Matheus](https://github.com/gauloish)
+- [@Monik](https://github.com/MonikAlves)
+- [@Luis](https://github.com/LuisFcarmo)
