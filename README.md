@@ -6,7 +6,7 @@ Este projeto final foi desenvolvido para a disciplina de Introdução à Program
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cmake,gtk&theme=dark" alt="Tecnologias usadas" />
+    <img src="https://skillicons.dev/icons?i=c,cmake&theme=dark" alt="Tecnologias usadas" />
   </a>
 </div>
 
