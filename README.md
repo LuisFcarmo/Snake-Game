@@ -1,4 +1,4 @@
-#Snake game
+##Snake game
 
 Este projeto final foi desenvolvido para a disciplina de Introdução à Programação e consiste em uma implementação do clássico jogo da cobrinha (Snake).
 
