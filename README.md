@@ -19,11 +19,6 @@ Este projeto final foi desenvolvido para a disciplina de Introdução à Program
 ## Instruções
 <img src="telas/instru.png" alt="Tela init" width="500"/>
 
-
-### Instruções
-<img src="telas/instru.png" alt="Tela Deletar Lista" width="500"/>
-
-
 ## Para executar:
 ```bash
 
