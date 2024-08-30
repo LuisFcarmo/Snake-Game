@@ -11,8 +11,6 @@ Este projeto final foi desenvolvido para a disciplina de Introdução à Program
 
 ## Telas 
 
-<img src="telas/game.png" alt="Tela init" width="500"/>
-<img src="telas/game2.png" alt="Tela init" width="500"/>
 <img src="telas/game3.png" alt="Tela init" width="500"/>
 <img src="telas/game4.png" alt="Tela init" width="500"/>
 
